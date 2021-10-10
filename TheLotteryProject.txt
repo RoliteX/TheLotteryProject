@@ -1,0 +1,1 @@
+Data Source=DESKTOP-H5VEBSE;Initial Catalog=TheLotteryProject;Integrated Security=True

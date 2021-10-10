@@ -1,0 +1,12 @@
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\bin\Debug\TheLotteryProject.exe.config
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\bin\Debug\TheLotteryProject.exe
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\bin\Debug\TheLotteryProject.pdb
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.csproj.AssemblyReference.cache
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.Properties.Resources.resources
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.csproj.GenerateResource.cache
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.csproj.CoreCompileInputs.cache
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.exe
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.pdb
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.Game1.resources
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.TheLottery.resources
+C:\Araçlarım\yazılım\c#\TheLotteryProject\TheLotteryProject\obj\Debug\TheLotteryProject.SignIn.resources
